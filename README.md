@@ -1,9 +1,7 @@
 # Overview
 The **Business Insights 360** is a powerful dashboard created using **Microsoft Power BI**. This multi-functional dashboard has been customized to provide **AtliQ Hardware** with valuable insights into their different departments such as **Finance, Sales, Marketing** and **Supply Chain** across the global market. It achieves this by gathering data from two different sources: **Excel/CSV** files and a **MySQL** database.
 
-**Live Dashboard**: Click here
-
-**Video Presentation**: Click here
+**Live Dashboard**: [Click here](https://app.powerbi.com/links/6MTz6FmLY6?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=d6ae1fed-4776-4c71-8843-3f35e80d10e9)
 
 # Key Achievements
   1. Customized Dashboard: Developed a multi-functional Power BI dashboard to specifically meet AtliQ Hardware's needs, allowing them to gain insights into their various departments.
