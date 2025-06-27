@@ -1,25 +1,44 @@
-# Overview
-The **Business Insights 360** is a powerful dashboard created using **Microsoft Power BI**. This multi-functional dashboard has been customized to provide **AtliQ Hardware** with valuable insights into their different departments such as **Finance, Sales, Marketing** and **Supply Chain** across the global market. It achieves this by gathering data from two different sources: **Excel/CSV** files and a **MySQL** database.
+# **AtliQ Hardware | Business Insights 360 - Power BI Global Dashboard**
 
-**Live Dashboard**: [Click here](https://app.powerbi.com/links/6MTz6FmLY6?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=d6ae1fed-4776-4c71-8843-3f35e80d10e9)
+## Overview
 
-# Key Achievements
-  1. Customized Dashboard: Developed a multi-functional Power BI dashboard to specifically meet AtliQ Hardware's needs, allowing them to gain insights into their various departments.
- 
-  2. Data Integration: Data was sourced from disparate locations, including Excel/CSV files and a MySQL database, and seamlessly integrated into Power BI for comprehensive analysis.
+**Business Insights 360** is a dynamic, multi-functional dashboard built in **Power BI**, designed to provide **AtliQ Hardware** with actionable insights across **Finance**, **Sales**, **Marketing**, and **Supply Chain** departments at a global scale.
 
-  3. Data Model and Visualizations: A robust data model was developed within Power BI, enabling the creation of visually appealing and interactive visualizations to represent key performance indicators (KPIs).
 
-  4. Performance Optimization: The dashboard's performance was significantly improved using DAX Studio, resulting in a 5% increase in report efficiency.
+**Live Dashboard**: [Click here](https://app.powerbi.com/view?r=eyJrIjoiZGYxMDI3ZGEtMWI3OC00ZGExLTg0NTYtYmIxMzhiZDQ2OGM4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+**Github Link**: [Click here](https://github.com/darab96/Business-Insights-360)
+**Portfolio Website**: [Click here](https://codebasics.io/portfolio/Darab-Khan)
 
-  5. Data-Driven Decisions: AtliQ Hardware can now analyze trends across different departments, empowering them to make data-driven decisions.
 
-# Data Sources
-The dashboard gathers data from two primary sources:
+🚀 # Key Achievements:
 
-  1. Excel/CSV Files: Targets and Market Share data and related information are sourced from Excel and CSV files.
+✅ Developed a customized, interactive dashboard tailored to **AtliQ Hardware**'s business needs.
+✅ Integrated data from **Excel/CSV** files and a **MySQL** database for a unified view of company-wide performance.
+✅ Built a robust data model with visually engaging **KPIs** and department-level analytics.
+✅ Boosted dashboard efficiency by 5% through performance optimization using **DAX Studio**.
+✅ Enabled cross-departmental insights for better trend analysis and data-driven decisions.
 
-  2. MySQL Database: Facts and Dimension for all departments are retrieved from a MySQL database.
 
-# Performance Optimization
-I have optimized the dashboard's performance using DAX Studio, resulting in a 5% increase in report efficiency. This optimization ensures a seamless experience while exploring the data and visualizations.
+📊 # Data Sources:
+
+- **Excel/CSV Files**: Market share, sales targets, and supporting datasets.
+
+- **MySQL Database**: Fact tables and dimension data for all departments.
+
+
+⚡# Performance Optimization:
+
+Improved report speed and responsiveness using **DAX Studio**, ensuring seamless exploration of insights.
+
+
+🛠 # Technical Skills Applied:
+
+- **Power BI** (Data Modeling & Visualization)
+
+- **ETL** for multi-source data integration
+
+- **MySQL** for backend data retrieval
+
+- **DAX** for advanced calculations and performance tuning
+
+- **DAX Studio** for report optimization
