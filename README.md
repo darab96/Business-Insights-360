@@ -12,13 +12,13 @@
 
 # 🚀 Key Achievements:
 
-✅ Developed a customized, interactive dashboard tailored to **AtliQ Hardware**'s business needs.\
+✅ Developed a customized, interactive dashboard tailored to **AtliQ Hardware**'s business needs.
 
-✅ Integrated data from **Excel/CSV** files and a **MySQL** database for a unified view of company-wide performance.\
+✅ Integrated data from **Excel/CSV** files and a **MySQL** database for a unified view of company-wide performance.
 
-✅ Built a robust data model with visually engaging **KPIs** and department-level analytics.\
+✅ Built a robust data model with visually engaging **KPIs** and department-level analytics.
 
-✅ Boosted dashboard efficiency by 5% through performance optimization using **DAX Studio**.\
+✅ Boosted dashboard efficiency by 5% through performance optimization using **DAX Studio**.
 
 ✅ Enabled cross-departmental insights for better trend analysis and data-driven decisions.
 
