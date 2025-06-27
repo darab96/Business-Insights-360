@@ -30,7 +30,7 @@
 - **MySQL Database**: Fact tables and dimension data for all departments.
 
 
-# ⚡Performance Optimization:
+#⚡Performance Optimization:
 
 Improved report speed and responsiveness using **DAX Studio**, ensuring seamless exploration of insights.
 
